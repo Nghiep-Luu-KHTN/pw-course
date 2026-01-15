@@ -1,0 +1,4 @@
+1. git int: Khởi tạo một kho lưu trữ Git mới trong thư mục hiện tại.
+2. git add <file_name>: Thêm file cụ thể vào khu vực staging để chuẩn bị cho việc commit.
+3. git add .: Thêm tất cả các file đã thay đổi trong thư mục hiện tại vào khu vực staging.
+4. git commit -m "message": Tạo một commit mới với thông điệp mô tả các thay đổi đã được thêm vào khu vực staging.

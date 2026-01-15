@@ -1,0 +1,2 @@
+- file1: Vùng repository
+- file2 và file3: Vùng local
