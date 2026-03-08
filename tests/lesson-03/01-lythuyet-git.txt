@@ -1,0 +1,4 @@
+- git commit --amend: sửa lại commit cuối cùng - thay đổi message, thêm bớt file đã staged
+- git commit --amend -m "message": sửa lại message của commit cuối cùng, không thay đổi nội dung đã staged
+- git restore --staged <file>: bỏ file đã staged ra khỏi staging area, nhưng vẫn giữ nguyên thay đổi trong working directory
+- git reset HEAD~1: bỏ commit cuối cùng, đưa các thay đổi trở lại staging area
