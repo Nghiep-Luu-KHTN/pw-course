@@ -1,0 +1,5 @@
+//Cau 1
+- Cấu trúc DOM cơ bản của 1 trang web bao gồm các thẻ: html, head, body, div, span, p, header, footer, nav, section
+
+//Cau 2
+- Cấu trúc HTML cơ bản của 1 table: table, thead, tbody, tfoot, tr, th, td
